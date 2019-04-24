@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway|Krub');
+body
+{
+    background-color:#BDD0B6;
+}
+img
+{
+    display:block;
+    margin:auto;
+}
+.main
+{
+    background-color:#86BF73;
+    color:white;
+    font-family:'Raleway', 'optima';
+    padding: 30px 100px 30px 100px;
+    text-align:center;
+}
+#intro
+{
+    padding: 20px 100px 20px 100px;
+    font-family:'Krub', 'optima';
+    text-align:center;
+}
+.how-to
+{
+    margin: 70px 200px 50px 200px;
+    padding: 20px 50px 20px 50px;
+    background-color:white;
+    font-family:'Krub', 'optima';
+}
+.how-to h2
+{
+    color:#86BF73;
+    font-family:'Raleway', 'optima';
+    text-align:center;
+    font-size:150%;
+}
+#outro
+{
+    padding:20px 100px 20px 100px;
+    text-align:center;
+    font-family:'Krub', 'optima';
+}
+p
+{
+    font-size:120%;
+}
